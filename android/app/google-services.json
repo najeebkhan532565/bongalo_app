@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930119953543",
+    "project_id": "bongalo-76fa2",
+    "storage_bucket": "bongalo-76fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930119953543:android:c31dd37172d68262e01c22",
+        "android_client_info": {
+          "package_name": "com.example.bongalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930119953543-sm15c1je4o74ua6mrflj3qe3f4pkg4qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RbWBKSFUUelbkFKO87SFbrKNp3DHZ6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930119953543-sm15c1je4o74ua6mrflj3qe3f4pkg4qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
